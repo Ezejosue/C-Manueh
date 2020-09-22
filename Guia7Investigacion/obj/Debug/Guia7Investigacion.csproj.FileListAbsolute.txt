@@ -9,3 +9,14 @@ C:\Users\aezeq11\source\repos\Guia7Investigacion\obj\Debug\Guia7Investigacion.cs
 C:\Users\aezeq11\source\repos\Guia7Investigacion\obj\Debug\Guia7Investigacion.exe
 C:\Users\aezeq11\source\repos\Guia7Investigacion\obj\Debug\Guia7Investigacion.pdb
 C:\Users\aezeq11\source\repos\Guia7Investigacion\obj\Debug\Guia7Investigacion.Form2.resources
+A:\Proyectos\Repositorios\C-Manueh\Guia7Investigacion\bin\Debug\Guia7Investigacion.exe.config
+A:\Proyectos\Repositorios\C-Manueh\Guia7Investigacion\bin\Debug\Guia7Investigacion.exe
+A:\Proyectos\Repositorios\C-Manueh\Guia7Investigacion\bin\Debug\Guia7Investigacion.pdb
+A:\Proyectos\Repositorios\C-Manueh\Guia7Investigacion\obj\Debug\Guia7Investigacion.csprojAssemblyReference.cache
+A:\Proyectos\Repositorios\C-Manueh\Guia7Investigacion\obj\Debug\Guia7Investigacion.Form1.resources
+A:\Proyectos\Repositorios\C-Manueh\Guia7Investigacion\obj\Debug\Guia7Investigacion.Form2.resources
+A:\Proyectos\Repositorios\C-Manueh\Guia7Investigacion\obj\Debug\Guia7Investigacion.Properties.Resources.resources
+A:\Proyectos\Repositorios\C-Manueh\Guia7Investigacion\obj\Debug\Guia7Investigacion.csproj.GenerateResource.cache
+A:\Proyectos\Repositorios\C-Manueh\Guia7Investigacion\obj\Debug\Guia7Investigacion.csproj.CoreCompileInputs.cache
+A:\Proyectos\Repositorios\C-Manueh\Guia7Investigacion\obj\Debug\Guia7Investigacion.exe
+A:\Proyectos\Repositorios\C-Manueh\Guia7Investigacion\obj\Debug\Guia7Investigacion.pdb

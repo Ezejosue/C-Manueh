@@ -45,6 +45,7 @@ namespace Guia7Investigacion
 
         private void btnsalir_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Adios :3");
             Application.Exit();
         }
 
